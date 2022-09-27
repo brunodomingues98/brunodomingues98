@@ -35,6 +35,7 @@
     Live long and prosper 🖖
   </i>
 </div>
+<br>
 <div>
   <details close>
     <summary>📈 <b>GitHub Stats</b></summary>
