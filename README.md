@@ -65,7 +65,6 @@
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
-
   <img
     align="center"
     alt="Bruno-HTML"
