@@ -1,4 +1,4 @@
-## Hey whats'up ? 🤙🏻
+## Hey whats'up ?
 
 <div>
  <p>
