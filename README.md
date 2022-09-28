@@ -41,9 +41,9 @@
     <summary>📈 <b>GitHub Stats</b></summary>
     <br />
     <p align="center">
-      <a href="https://github.com/brunosantos-98">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosantos-98&layout=compact&langs_count=7&theme=dracula"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosantos-98&show_icons=true&theme=dracula&nclude_all_commits=true&count_private=true"/>
+      <a href="https://github.com/brunodomingues98">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true&theme=dracula&nclude_all_commits=true&count_private=true"/>
       </a>
     </p>
   </details>
