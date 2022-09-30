@@ -6,9 +6,6 @@
     Meu nome é Bruno, sou fã de tecnologia e acredito que esse é o caminho para
     um futuro melhor.
     <br />
-    Atualmente, coloco em prática na Triad Systems, meu conhecimento como
-    desenvolvedor.
-    <br />
     Tenho como objetivo, fazer parte da geração que está moldando o futuro por
     meios tecnológicos, compartilhando conhecimento, experiências e ideias que
     podem ser inovadoras.
@@ -23,8 +20,6 @@
     <br />
     My name is Bruno, I'm a fan of technology and I believe that this is the way
     to a better future.
-    <br />
-    Currently, I put my knowledge as a developer into practice at Triad Systems.
     <br />
     I aim to be part of the generation that is shaping the future through
     technological means, sharing knowledge, experiences and ideas that can be
