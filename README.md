@@ -37,8 +37,8 @@
     <br />
     <p align="center">
       <a href="https://github.com/brunodomingues98">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact&langs_count=7&theme=dracula"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true&theme=dracula&nclude_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact&langs_count=7&theme=aura"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true&theme=aura&nclude_all_commits=true&count_private=true"/>
       </a>
     </p>
   </details>
