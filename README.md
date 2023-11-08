@@ -66,27 +66,27 @@
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />  
-  <img 
+<!--   <img 
     align="center" 
     alt="Bruno-Ts"
     height="40"
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  />
-  <img
+  /> -->
+<!--   <img
     align="center"
     alt="Bruno-React"
     height="40"
     width="40"
     src="https://img.icons8.com/color/344/angularjs.png"
-  />  
-  <img
+  />   -->
+<!--   <img
     align="center"
     alt="Bruno-Node"
     height="40"
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-  />
+  /> -->
   <img
     align="center"
     alt="Bruno-Git"
