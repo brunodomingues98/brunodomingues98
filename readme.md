@@ -70,9 +70,3 @@ Git • Vite
 * Portfólio: https://bdportfolio.vercel.app
 
 ---
-
-## 📊 GitHub Stats
-
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact)
