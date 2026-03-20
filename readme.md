@@ -55,16 +55,12 @@ Git • Vite
 
 ## 🎯 Objetivo
 
-<<<<<<< HEAD:readme.md
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact&theme=tokyonight"/>
 </p>
-=======
-Desenvolver aplicações cada vez mais completas, unindo boa experiência do usuário, lógica sólida e organização de projeto, com o objetivo de atuar como desenvolvedor full stack e participar ativamente de decisões técnicas e de produto.
->>>>>>> 18dc03cd0875183e10351419c7e907ee92ebb376:readme.me
 
 ---
 
