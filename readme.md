@@ -1,60 +1,82 @@
-# 👋 Olá, eu sou o Bruno Domingues dos Santos
+# 👋 Bruno Domingues dos Santos
 
-Sou **desenvolvedor web** apaixonado por tecnologia, aprendizado contínuo e criação de soluções que fazem a diferença. Atualmente, estou focado em **front-end** com React e TypeScript, além de explorar boas práticas no desenvolvimento de software.
+Desenvolvedor web com foco em React e TypeScript, criando aplicações funcionais voltadas para problemas reais. Busco evoluir para o full stack, com interesse em arquitetura de aplicações e também em gestão de projetos de tecnologia.
+
+---
+
+## 🚀 Projeto Principal
+
+### 🧠 Ficha de Treino
+
+Sistema web para criação e gerenciamento de treinos, com foco em simplicidade, usabilidade e evolução contínua.
+
+🔗 https://ficha-de-treino.vercel.app
+
+**Destaques do projeto:**
+
+* Interface prática e direta para o usuário
+* Organização de treinos personalizada
+* Estrutura pensada para evolução contínua
+* Base para futuras integrações (como personalização e IA)
 
 ---
 
 ## 💼 Sobre mim
 
-- 🎓 Formado e em constante formação na área de tecnologia
-- 💻 Atualmente trabalho no **Bradesco**
-- 📍 Localizado em **Pouso Alegre, MG - Brasil**
-- 🌐 Portfólio: [bdportfolio.vercel.app](https://bdportfolio.vercel.app)
-- 🔗 Conecte-se comigo:
-  - [LinkedIn](https://www.linkedin.com/in/bruno-domingues-33288b16a/)
-  - [Instagram](https://www.instagram.com/bruno_domingues98/)
+* 💻 Desenvolvedor no Bradesco
+* 📍 Pouso Alegre, MG - Brasil
+* 🎯 Foco atual: Front-end com React e TypeScript
+* 📈 Evoluindo para desenvolvimento Full Stack
+* 🧩 Interesse em gestão de projetos, organização de fluxos e produto
+* 🌐 Portfólio: https://bdportfolio.vercel.app
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
+**Front-end:**
+React • TypeScript • HTML • CSS
 
----
+**Back-end:**
+PHP • MySQL
 
-## 📂 Repositórios em Destaque
-
-- 🎯 [negociacoesTypeScript](https://github.com/brunodomingues98/negociacoesTypeScript) - Aplicação orientada a objetos com TypeScript
-- 🧠 [introducaoJavaScript](https://github.com/brunodomingues98/introducaoJavaScript) - Estudos e fundamentos de JavaScript
-- 🧾 [CRUD-PHP](https://github.com/brunodomingues98/CRUD-PHP) - Sistema CRUD completo com PHP e MySQL
-- 📋 [fichaDeTreino](https://github.com/brunodomingues98/fichaDeTreino) - Sistema de cadastro de treinos
-- 📊 [projetosUnis](https://github.com/brunodomingues98/projetosUnis) - Projetos universitários
+**Ferramentas:**
+Git • Vite
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📂 Projetos em Destaque
 
+* 🧠 Ficha de Treino — aplicação completa com foco em uso real
+* 💻 Negociações com TypeScript — aplicação com orientação a objetos
+* 🧾 CRUD com PHP — sistema com persistência em banco de dados
+
+---
+
+## 🎯 Objetivo
+
+<<<<<<< HEAD:readme.md
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact&theme=tokyonight"/>
 </p>
+=======
+Desenvolver aplicações cada vez mais completas, unindo boa experiência do usuário, lógica sólida e organização de projeto, com o objetivo de atuar como desenvolvedor full stack e participar ativamente de decisões técnicas e de produto.
+>>>>>>> 18dc03cd0875183e10351419c7e907ee92ebb376:readme.me
 
 ---
 
-## 📢 Últimas Atualizações
+## 🔗 Contato
 
-Fique de olho nos meus repositórios para acompanhar novos projetos e estudos! 😄
+* LinkedIn: https://www.linkedin.com/in/bruno-domingues-33288b16a/
+* Portfólio: https://bdportfolio.vercel.app
 
 ---
 
-### Obrigado por visitar! ✌️
+## 📊 GitHub Stats
+
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact)
