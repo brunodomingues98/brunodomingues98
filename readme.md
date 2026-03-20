@@ -42,8 +42,12 @@ Sou **desenvolvedor web** apaixonado por tecnologia, aprendizado contínuo e cri
 
 ## 📈 Estatísticas GitHub
 
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunodomingues98&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodomingues98&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
